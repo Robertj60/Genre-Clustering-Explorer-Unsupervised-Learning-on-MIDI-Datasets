@@ -95,7 +95,3 @@ The clustering successfully identifies distinct musical patterns:
 ## 👤 Author
 
 Created for data analytics portfolio demonstrations.
-
-## 📄 License
-
-MIT License
